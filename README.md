@@ -4,7 +4,7 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online](https://larissakich.github.io/landing-page-responsiva/)**
+**[Ver Projeto Online](https://larissakich.github.io/landing-page-food-theme/)**
 
 ## 🛠️ Tecnologias Utilizadas
 
